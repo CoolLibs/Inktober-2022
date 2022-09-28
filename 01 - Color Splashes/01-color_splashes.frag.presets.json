@@ -1,0 +1,354 @@
+{
+    "PresetManager": {
+        "Presets": {
+            "value0": {
+                "value0": [
+                    {
+                        "first": {
+                            "value0": {
+                                "value0": "1fdf7222-fda2-480d-8bbf-48e012a47df9"
+                            }
+                        },
+                        "second": {
+                            "Name": "Default",
+                            "Values": [
+                                {
+                                    "index": 13,
+                                    "data": {
+                                        "Name": "gradient",
+                                        "Value": {
+                                            "Gradient": [
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 0.0
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.4627451002597809,
+                                                        "y": 0.47058823704719546,
+                                                        "z": 0.929411768913269,
+                                                        "w": 1.0
+                                                    }
+                                                },
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 0.5
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 1.0,
+                                                        "y": 0.7921568751335144,
+                                                        "z": 0.18431372940540315,
+                                                        "w": 1.0
+                                                    }
+                                                },
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 1.0
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.239215686917305,
+                                                        "y": 0.20392157137393952,
+                                                        "z": 0.545098066329956,
+                                                        "w": 1.0
+                                                    }
+                                                }
+                                            ],
+                                            "Wrap Mode": 2,
+                                            "Interpolation Mode": 0
+                                        },
+                                        "Metadata": {
+                                            "Is HDR": true,
+                                            "Randomize new marks' colors": true
+                                        },
+                                        "Default Value": {
+                                            "Gradient": [
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 0.0
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.4627451002597809,
+                                                        "y": 0.47058823704719546,
+                                                        "z": 0.929411768913269,
+                                                        "w": 1.0
+                                                    }
+                                                },
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 0.5
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 1.0,
+                                                        "y": 0.7921568751335144,
+                                                        "z": 0.18431372940540315,
+                                                        "w": 1.0
+                                                    }
+                                                },
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 1.0
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.239215686917305,
+                                                        "y": 0.20392157137393952,
+                                                        "z": 0.545098066329956,
+                                                        "w": 1.0
+                                                    }
+                                                }
+                                            ],
+                                            "Wrap Mode": 2,
+                                            "Interpolation Mode": 0
+                                        },
+                                        "Default Metadata": {
+                                            "Is HDR": true,
+                                            "Randomize new marks' colors": true
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 4,
+                                    "data": {
+                                        "Name": "Translation",
+                                        "Value": {
+                                            "x": 0.0,
+                                            "y": 0.0
+                                        },
+                                        "Metadata": {
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": {
+                                            "x": 0.0,
+                                            "y": 0.0
+                                        },
+                                        "Default Metadata": {
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 4,
+                                    "data": {
+                                        "Name": "Scale",
+                                        "Value": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        },
+                                        "Metadata": {
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        },
+                                        "Default Metadata": {
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Zoom",
+                                        "Value": 0.9200000166893005,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 1.0,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": true,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Noise1_Frequency",
+                                        "Value": 0.7400000095367432,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 0.7400000095367432,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": true,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Noise1_Fractalness",
+                                        "Value": 0.9100000262260437,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 0.9100000262260437,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": true,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Noise1_Scale",
+                                        "Value": 4.539999961853027,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 4.539999961853027,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": true,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Noise2_Frequency",
+                                        "Value": 1.8899999856948853,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 1.8899999856948853,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": true,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Noise2_Fractalness",
+                                        "Value": 1.6299999952316285,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 1.6299999952316285,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": true,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Noise2_Scale",
+                                        "Value": 3.859999895095825,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 3.859999895095825,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": true,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Noise3_Frequency",
+                                        "Value": 1.590000033378601,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 1.590000033378601,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": true,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Noise3_Fractalness",
+                                        "Value": 1.7300000190734864,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 1.7300000190734864,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": true,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Noise3_Scale",
+                                        "Value": 3.240000009536743,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 3.240000009536743,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": true,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
