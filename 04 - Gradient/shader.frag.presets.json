@@ -1,0 +1,662 @@
+{
+    "PresetManager": {
+        "Presets": {
+            "value0": {
+                "value0": [
+                    {
+                        "first": {
+                            "value0": {
+                                "value0": "52f66008-a754-4651-b678-6938d17ceab9"
+                            }
+                        },
+                        "second": {
+                            "Name": "img1",
+                            "Values": [
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Scale",
+                                        "Value": 100.0,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 100.0,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 13,
+                                    "data": {
+                                        "Name": "gradient",
+                                        "Value": {
+                                            "Gradient": [
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 0.0
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.11372549086809159,
+                                                        "y": 0.2078431397676468,
+                                                        "z": 0.34117648005485537,
+                                                        "w": 1.0
+                                                    }
+                                                },
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 0.24400000274181367
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.9347870349884033,
+                                                        "y": 0.29966598749160769,
+                                                        "z": 0.42637157440185549,
+                                                        "w": 1.0
+                                                    }
+                                                },
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 1.0
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 1.0,
+                                                        "y": 1.0,
+                                                        "z": 1.0,
+                                                        "w": 1.0
+                                                    }
+                                                }
+                                            ],
+                                            "Wrap Mode": 0,
+                                            "Interpolation Mode": 0
+                                        },
+                                        "Metadata": {
+                                            "Is HDR": true,
+                                            "Randomize new marks' colors": true
+                                        },
+                                        "Default Value": {
+                                            "Gradient": [
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 0.0
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.11372549086809159,
+                                                        "y": 0.2078431397676468,
+                                                        "z": 0.34117648005485537,
+                                                        "w": 1.0
+                                                    }
+                                                },
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 0.24400000274181367
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.9347870349884033,
+                                                        "y": 0.29966598749160769,
+                                                        "z": 0.42637157440185549,
+                                                        "w": 1.0
+                                                    }
+                                                },
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 1.0
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 1.0,
+                                                        "y": 1.0,
+                                                        "z": 1.0,
+                                                        "w": 1.0
+                                                    }
+                                                }
+                                            ],
+                                            "Wrap Mode": 0,
+                                            "Interpolation Mode": 0
+                                        },
+                                        "Default Metadata": {
+                                            "Is HDR": true,
+                                            "Randomize new marks' colors": true
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Random_amplitude",
+                                        "Value": 4.202000141143799,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 20.0,
+                                            "Bounded": true,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 4.202000141143799,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Random_seed",
+                                        "Value": 314.0,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 1.0
+                                        },
+                                        "Default Value": 314.0,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "first": {
+                            "value0": {
+                                "value0": "232d3940-3e5d-4092-a3ea-9ae769b38d33"
+                            }
+                        },
+                        "second": {
+                            "Name": "img2",
+                            "Values": [
+                                {
+                                    "index": 13,
+                                    "data": {
+                                        "Name": "gradient",
+                                        "Value": {
+                                            "Gradient": [
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 0.2939999997615814
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.16078431904315949,
+                                                        "y": 0.20392157137393952,
+                                                        "z": 0.3843137323856354,
+                                                        "w": 1.0
+                                                    }
+                                                },
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 0.7279999852180481
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.8392156958580017,
+                                                        "y": 0.10980392247438431,
+                                                        "z": 0.30588236451148989,
+                                                        "w": 1.0
+                                                    }
+                                                },
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 1.0
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.9960784316062927,
+                                                        "y": 0.6941176652908325,
+                                                        "z": 0.2235294133424759,
+                                                        "w": 1.0
+                                                    }
+                                                }
+                                            ],
+                                            "Wrap Mode": 0,
+                                            "Interpolation Mode": 0
+                                        },
+                                        "Metadata": {
+                                            "Is HDR": true,
+                                            "Randomize new marks' colors": true
+                                        },
+                                        "Default Value": {
+                                            "Gradient": [
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 0.2939999997615814
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.16078431904315949,
+                                                        "y": 0.20392157137393952,
+                                                        "z": 0.3843137323856354,
+                                                        "w": 1.0
+                                                    }
+                                                },
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 0.7279999852180481
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.8392156958580017,
+                                                        "y": 0.10980392247438431,
+                                                        "z": 0.30588236451148989,
+                                                        "w": 1.0
+                                                    }
+                                                },
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 1.0
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.9960784316062927,
+                                                        "y": 0.6941176652908325,
+                                                        "z": 0.2235294133424759,
+                                                        "w": 1.0
+                                                    }
+                                                }
+                                            ],
+                                            "Wrap Mode": 0,
+                                            "Interpolation Mode": 0
+                                        },
+                                        "Default Metadata": {
+                                            "Is HDR": true,
+                                            "Randomize new marks' colors": true
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Scale",
+                                        "Value": 20.0,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 20.0,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Random_amplitude",
+                                        "Value": 2.492000102996826,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 20.0,
+                                            "Bounded": true,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 2.492000102996826,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Random_seed",
+                                        "Value": 216.0,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 1.0
+                                        },
+                                        "Default Value": 216.0,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Slope",
+                                        "Value": -0.1899999976158142,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": -0.1899999976158142,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Offset",
+                                        "Value": -0.12999999523162843,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": -0.12999999523162843,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Shape",
+                                        "Value": 2.2699999809265138,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 2.2699999809265138,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Cell_border",
+                                        "Value": 0.07699999958276749,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": true,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 0.07699999958276749,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "first": {
+                            "value0": {
+                                "value0": "a99a9da2-a7c3-4a24-8464-6b127963db01"
+                            }
+                        },
+                        "second": {
+                            "Name": "img3",
+                            "Values": [
+                                {
+                                    "index": 13,
+                                    "data": {
+                                        "Name": "gradient",
+                                        "Value": {
+                                            "Gradient": [
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 0.2939999997615814
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.02169838175177574,
+                                                        "y": 0.05818868800997734,
+                                                        "z": 0.21078431606292725,
+                                                        "w": 1.0
+                                                    }
+                                                },
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 0.7279999852180481
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.8392156958580017,
+                                                        "y": 0.10980392247438431,
+                                                        "z": 0.30588236451148989,
+                                                        "w": 1.0
+                                                    }
+                                                },
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 1.0
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.9960784316062927,
+                                                        "y": 0.6941176652908325,
+                                                        "z": 0.2235294133424759,
+                                                        "w": 1.0
+                                                    }
+                                                }
+                                            ],
+                                            "Wrap Mode": 0,
+                                            "Interpolation Mode": 0
+                                        },
+                                        "Metadata": {
+                                            "Is HDR": true,
+                                            "Randomize new marks' colors": true
+                                        },
+                                        "Default Value": {
+                                            "Gradient": [
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 0.2939999997615814
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.16078431904315949,
+                                                        "y": 0.20392157137393952,
+                                                        "z": 0.3843137323856354,
+                                                        "w": 1.0
+                                                    }
+                                                },
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 0.7279999852180481
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.8392156958580017,
+                                                        "y": 0.10980392247438431,
+                                                        "z": 0.30588236451148989,
+                                                        "w": 1.0
+                                                    }
+                                                },
+                                                {
+                                                    "Mark position": {
+                                                        "Relative position": 1.0
+                                                    },
+                                                    "Mark color": {
+                                                        "x": 0.9960784316062927,
+                                                        "y": 0.6941176652908325,
+                                                        "z": 0.2235294133424759,
+                                                        "w": 1.0
+                                                    }
+                                                }
+                                            ],
+                                            "Wrap Mode": 0,
+                                            "Interpolation Mode": 0
+                                        },
+                                        "Default Metadata": {
+                                            "Is HDR": true,
+                                            "Randomize new marks' colors": true
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Scale",
+                                        "Value": 20.0,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 20.0,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Random_amplitude",
+                                        "Value": 2.492000102996826,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 20.0,
+                                            "Bounded": true,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 2.492000102996826,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Random_seed",
+                                        "Value": 216.0,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 1.0
+                                        },
+                                        "Default Value": 216.0,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Slope",
+                                        "Value": -0.1899999976158142,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": -0.1899999976158142,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Offset",
+                                        "Value": -0.12999999523162843,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": -0.12999999523162843,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Shape",
+                                        "Value": 2.2699999809265138,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 2.2699999809265138,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Cell_border",
+                                        "Value": 0.03200000151991844,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": true,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 0.07699999958276749,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

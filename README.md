@@ -11,3 +11,4 @@ Made during Inktober 2022, following this list:
 | | | |
 | --- | --- | --- |
 | ![day1](01%20-%20Color%20Splashes/img1.png) | ![day2](https://user-images.githubusercontent.com/45451201/193415313-aa65165a-0c2f-435b-8c17-f81cb38c6d0a.png) | ![day3](03%20-%20Bubbles/img1.png) |
+| ![day4](04%20-%20Gradient/img1.png) | | |
