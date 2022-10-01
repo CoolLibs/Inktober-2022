@@ -1,6 +1,7 @@
 # 03 - Bubbles
 
-> For this one I tried to mix in a few noise fields to get blobby shapes. I ended up generating three fields and picking a color based on which field was the median one (aka neither the smallest nor the largest).
+> I am really happy with how the distribution of the circles turned out. In order to avoid overlapping circles I did put each of them in a different cell of a Voronoi grid, and gave them a radius equal to the size of the cell. This makes sure they almost touch, but never overlap.
+We could also compute a random number for each cell and hide some of the circles based on that if we wanted a sparser distribution.
 
 | | |
 | --- | --- |
