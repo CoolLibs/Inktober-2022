@@ -1,6 +1,7 @@
 # Inktober 2022
 
-*A collection of [CoolLab](https://coollibs.github.io/lab) projects*
+*A collection of [CoolLab](https://coollibs.github.io/lab) projects*<br/>
+[#coollab_inktober](https://www.instagram.com/explore/tags/coollab_inktober/)
 
 Made during Inktober 2022, following this list:
 
