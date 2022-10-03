@@ -12,6 +12,7 @@ vec3              image(vec2 uv)
 // #include "_ROOT_FOLDER_/res/shader-lib/bichrome.glsl"
 
 INPUT float    Scale;
+INPUT float    Scale_growth;
 INPUT RgbColor Background;
 INPUT RgbColor Color;
 
@@ -27,9 +28,17 @@ float luminance(vec3 color)
 
 void main()
 {
-    vec3 color;
-    vec2 grid_uv    = fract(_uv * Scale) * 2. - 1.;
-    vec2 eval_point = (floor(_uv * Scale) + 0.5) / Scale;
+    // clang-format off
+    float quadrant_id;
+    if (_uv.x < 0.5 && _uv.y < 0.5) quadrant_id = 1.;
+    if (_uv.x > 0.5 && _uv.y < 0.5) quadrant_id = 2.;
+    if (_uv.x > 0.5 && _uv.y > 0.5) quadrant_id = 3.;
+    if (_uv.x < 0.5 && _uv.y > 0.5) quadrant_id = 0.;
+    // clang-format on
+    float scale = Scale * pow(Scale_growth, quadrant_id);
+    vec3  color;
+    vec2  grid_uv    = fract(_uv * scale) * 2. - 1.;
+    vec2  eval_point = (floor(_uv * scale) + 0.5) / scale;
 
     float lum = luminance(image(eval_point));
 
