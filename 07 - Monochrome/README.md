@@ -1,5 +1,7 @@
-# 06 - Wave
+# 07 - Monochrome
 
-> To achieve this stateless effect, each particle actually goes in a straight line forever. Their position is then mapped back into the canvas with a mirror repeat, simulating a bounce on the edges.
+> There are only two colors in this image. The shading is done by varying the size of the circles.
 
-https://user-images.githubusercontent.com/45451201/193475669-8ff7e07e-4375-4a3f-b4a1-1b3ddf8c9ca3.mp4
+<p align="center">
+  <img alt="img1" width="500px" src="img1.png" />
+</p>
