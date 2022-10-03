@@ -16,14 +16,34 @@
                                     "index": 2,
                                     "data": {
                                         "Name": "Scale",
-                                        "Value": 280.239990234375,
+                                        "Value": 52.400001525878909,
                                         "Metadata": {
                                             "Min Value": 0.0,
                                             "Max Value": 1.0,
                                             "Bounded": false,
-                                            "Drag speed": 1.0
+                                            "Drag speed": 0.20000000298023225
                                         },
-                                        "Default Value": 280.239990234375,
+                                        "Default Value": 40.0,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Scale_growth",
+                                        "Value": 1.75,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 1.7699999809265137,
                                         "Default Metadata": {
                                             "Min Value": 0.0,
                                             "Max Value": 1.0,
@@ -38,9 +58,9 @@
                                         "Name": "Background",
                                         "Value": {
                                             "RGB": {
-                                                "x": 0.062745101749897,
-                                                "y": 0.27843138575553896,
-                                                "z": 0.4313725531101227
+                                                "x": 0.04596846550703049,
+                                                "y": 0.015787191689014436,
+                                                "z": 0.35784316062927248
                                             }
                                         },
                                         "Metadata": {
@@ -65,8 +85,8 @@
                                         "Value": {
                                             "RGB": {
                                                 "x": 1.0,
-                                                "y": 0.9723183512687683,
-                                                "z": 0.529411792755127
+                                                "y": 1.0,
+                                                "z": 1.0
                                             }
                                         },
                                         "Metadata": {
@@ -88,14 +108,14 @@
                                     "index": 2,
                                     "data": {
                                         "Name": "Shape",
-                                        "Value": 2.759999990463257,
+                                        "Value": 2.0,
                                         "Metadata": {
                                             "Min Value": 0.0,
                                             "Max Value": 1.0,
                                             "Bounded": false,
                                             "Drag speed": 0.009999999776482582
                                         },
-                                        "Default Value": 2.759999990463257,
+                                        "Default Value": 2.0,
                                         "Default Metadata": {
                                             "Min Value": 0.0,
                                             "Max Value": 1.0,
@@ -108,7 +128,7 @@
                                     "index": 2,
                                     "data": {
                                         "Name": "Antialiasing",
-                                        "Value": 0.10000000149011612,
+                                        "Value": 0.06499999761581421,
                                         "Metadata": {
                                             "Min Value": 0.0,
                                             "Max Value": 0.10000000149011612,

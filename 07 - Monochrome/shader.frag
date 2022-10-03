@@ -26,6 +26,19 @@ float luminance(vec3 color)
     return dot(color, channels_contribution);
 }
 
+vec3 effect(vec2 uv, float scale)
+{
+    vec2 grid_uv    = fract(uv * scale) * 2. - 1.;
+    vec2 eval_point = (floor(uv * scale) + 0.5) / scale;
+
+    float lum = luminance(image(eval_point));
+
+    float radius = lum;
+    vec2  center = grid_uv;
+    float d      = pow(pow(abs(grid_uv.x), Shape) + pow(abs(grid_uv.y), Shape), 1. / Shape);
+    return mix(Color, Background, smoothstep(radius - Antialiasing, radius + Antialiasing, d));
+}
+
 void main()
 {
     // clang-format off
@@ -35,16 +48,8 @@ void main()
     if (_uv.x > 0.5 && _uv.y > 0.5) quadrant_id = 3.;
     if (_uv.x < 0.5 && _uv.y > 0.5) quadrant_id = 0.;
     // clang-format on
-    float scale = Scale * pow(Scale_growth, quadrant_id);
-    vec3  color;
-    vec2  grid_uv    = fract(_uv * scale) * 2. - 1.;
-    vec2  eval_point = (floor(_uv * scale) + 0.5) / scale;
-
-    float lum = luminance(image(eval_point));
-
-    float radius = lum;
-    float d      = pow(pow(abs(grid_uv.x), Shape) + pow(abs(grid_uv.y), Shape), 1. / Shape);
-    color        = mix(Color, Background, smoothstep(radius - Antialiasing, radius + Antialiasing, d));
+    float scale = Scale * pow(Scale_growth, quadrant_id) / 4;
+    vec3  color = effect(fract(_uv * 2.), scale);
 
     out_Color = vec4(color, 1.);
 }
