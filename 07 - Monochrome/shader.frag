@@ -43,9 +43,9 @@ void main()
 {
     // clang-format off
     float quadrant_id;
-    if (_uv.x < 0.5 && _uv.y < 0.5) quadrant_id = 1.;
-    if (_uv.x > 0.5 && _uv.y < 0.5) quadrant_id = 2.;
-    if (_uv.x > 0.5 && _uv.y > 0.5) quadrant_id = 3.;
+    if (_uv.x < 0.5 && _uv.y < 0.5) quadrant_id = 2.;
+    if (_uv.x > 0.5 && _uv.y < 0.5) quadrant_id = 3.;
+    if (_uv.x > 0.5 && _uv.y > 0.5) quadrant_id = 1.;
     if (_uv.x < 0.5 && _uv.y > 0.5) quadrant_id = 0.;
     // clang-format on
     float scale = Scale * pow(Scale_growth, quadrant_id) / 4;
