@@ -1,0 +1,174 @@
+{
+    "PresetManager": {
+        "Presets": {
+            "value0": {
+                "value0": [
+                    {
+                        "first": {
+                            "value0": {
+                                "value0": "6ca977ab-7b38-4bcb-8815-3f823d83bbbb"
+                            }
+                        },
+                        "second": {
+                            "Name": "vid1",
+                            "Values": [
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Scale",
+                                        "Value": 24.209999084472658,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 20.0,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 7,
+                                    "data": {
+                                        "Name": "Background",
+                                        "Value": {
+                                            "RGB": {
+                                                "x": 0.0,
+                                                "y": 0.03460210561752319,
+                                                "z": 0.23529410362243653
+                                            }
+                                        },
+                                        "Metadata": {
+                                            "Is HDR": false
+                                        },
+                                        "Default Value": {
+                                            "RGB": {
+                                                "x": 0.0,
+                                                "y": 0.0,
+                                                "z": 0.0
+                                            }
+                                        },
+                                        "Default Metadata": {
+                                            "Is HDR": false
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 7,
+                                    "data": {
+                                        "Name": "Color",
+                                        "Value": {
+                                            "RGB": {
+                                                "x": 1.0,
+                                                "y": 1.0,
+                                                "z": 1.0
+                                            }
+                                        },
+                                        "Metadata": {
+                                            "Is HDR": false
+                                        },
+                                        "Default Value": {
+                                            "RGB": {
+                                                "x": 0.0,
+                                                "y": 0.0,
+                                                "z": 0.0
+                                            }
+                                        },
+                                        "Default Metadata": {
+                                            "Is HDR": false
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Wave_frequency",
+                                        "Value": 7.710000038146973,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 0.0,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Max_hex_size",
+                                        "Value": 0.44999998807907107,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.5800000429153443,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 0.0,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Time_speed",
+                                        "Value": 0.5,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 0.0,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                },
+                                {
+                                    "index": 2,
+                                    "data": {
+                                        "Name": "Antialiasing",
+                                        "Value": 0.004000000189989805,
+                                        "Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 0.05000000074505806,
+                                            "Bounded": true,
+                                            "Drag speed": 0.009999999776482582
+                                        },
+                                        "Default Value": 0.0,
+                                        "Default Metadata": {
+                                            "Min Value": 0.0,
+                                            "Max Value": 1.0,
+                                            "Bounded": false,
+                                            "Drag speed": 0.009999999776482582
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
