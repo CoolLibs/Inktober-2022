@@ -13,4 +13,4 @@ Made during Inktober 2022, following this list:
 | --- | --- | --- |
 | ![day1](01%20-%20Color%20Splashes/img1.png) | ![day2](https://user-images.githubusercontent.com/45451201/193429705-a4cd4a1f-4bf5-4018-a805-5329550f5655.png) | ![day3](03%20-%20Bubbles/img1.png) |
 | ![day4](04%20-%20Gradient/img1.png) |![day5](https://user-images.githubusercontent.com/45451201/193470730-caf8e507-eee1-4582-a5df-d6e546597c4a.png) | ![day6](https://user-images.githubusercontent.com/45451201/193474612-2676c3e5-0357-49fb-a8fe-42794a3dab1d.png) |
-| ![day7](07%20-%20Monochrome/img1.png) | ![day8](https://user-images.githubusercontent.com/45451201/194541117-fd5ba205-4acf-4418-b4a6-9981adce8a38.png) |  |
+| ![day7](07%20-%20Monochrome/img1.png) | ![day8](https://user-images.githubusercontent.com/45451201/194541117-fd5ba205-4acf-4418-b4a6-9981adce8a38.png) | ![day9](https://user-images.githubusercontent.com/45451201/194715599-13ed00d1-e33c-4e62-96c0-1226cd9a52e2.png) |
